@@ -26,22 +26,6 @@ This project analyses **103,904 passenger records across 25 columns** from the p
 - SQLAlchemy and psycopg2
 - Power BI Desktop and DAX
 
-## Repository structure
-
-```text
-Airline-Customer-Satisfaction-Analytics/
-├── README.md
-├── docs/
-│   ├── Airline_Customer_Satisfaction_Professional_Report.docx
-│   └── Airline_Customer_Satisfaction_Professional_Report.pdf
-├── sql/
-│   └── analysis_queries.sql
-├── python/
-│   └── import_airline_data_template.py
-└── images/
-    └── (add dashboard screenshots here)
-```
-
 ## Key findings recorded during the project
 
 | Analysis | Result |
